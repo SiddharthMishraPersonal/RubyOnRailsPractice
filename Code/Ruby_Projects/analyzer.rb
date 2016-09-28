@@ -1,11 +1,10 @@
-
 # Multiplies two given number and returns float as result.
 def multiply(num1, num2)
   num1.to_f * num2.to_f
 end
 
 # Mods two given number and returns float as result.
-def moduler(num1, num2)
+def mod(num1, num2)
   num2.to_f % num1.to_f;
 end
 
@@ -42,23 +41,33 @@ num1 = gets.chomp
 puts "Please enter your first number:"
 num2 = gets.chomp
 
+result = 0;
+
 if option == 1
   puts "You have chosen to multiply.";
+  result = multiply(num1, num2);
 
-  elsif option == 2
+elsif option == 2
   puts "You have chosen to divide.";
+  result = divide(num1, num2);
 
-  elsif option == 3
+elsif option == 3
   puts "You have chosen to add.";
+  result =add(num1, num2);
 
-  elsif option == 4
+elsif option == 4
   puts "You have chosen to subtract.";
+  result =subtract(num1, num2);
 
-  elsif option == 5
+elsif option == 5
   puts "You have chosen to mod.";
-  else
+  result = mod(num1, num2);
+
+else
   puts "Wrong choice!";
 end
+
+puts "Result: #{result}";
 
 #puts "First number multiply by second number is : #{multiply(num1, num2)}"
 #puts "First number MOD of second number is : #{moduler(num1, num2)}"
