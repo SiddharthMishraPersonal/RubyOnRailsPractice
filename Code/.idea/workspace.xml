@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0919ed0a-28c1-4075-af03-3e815834a061" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/module_practice.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user_inheritance.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code.iws" />
@@ -24,11 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="user.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="module_practice.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/module_practice.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_inheritance.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user_inheritance.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,6 +75,8 @@
         <option value="$PROJECT_DIR$/Ruby_Projects/areaCodeDictionary/areaCodeDictionary.txt" />
         <option value="$PROJECT_DIR$/Ruby_Projects/areaCodeDictionary/areaCodeDictionary.rb" />
         <option value="$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user.rb" />
+        <option value="$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user_inheritance.rb" />
+        <option value="$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/module_practice.rb" />
       </list>
     </option>
   </component>
@@ -291,12 +314,12 @@
       <option name="presentableId" value="Default" />
       <updated>1475070619192</updated>
       <workItem from="1475070620277" duration="5956000" />
-      <workItem from="1475084670673" duration="1215000" />
+      <workItem from="1475084670673" duration="1827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7171000" />
+    <option name="totallyTimeSpent" value="7783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
@@ -417,10 +440,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user_inheritance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby_Projects/objectOrientedProgramming/module_practice.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
           <folding />
         </state>
       </provider>
